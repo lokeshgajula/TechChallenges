@@ -14,4 +14,5 @@ Next if you press the fetch results. You will get the respective file names and 
 
 Sample testing and results are uploaded as images in the repository.
 here are the links:
+https://github.com/lokeshgajula/TechChallenges/blob/347440664611403c2b4a888ca29fb2786d9a5648/Question1/Home.png
 
